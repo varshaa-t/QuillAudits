@@ -5,7 +5,7 @@ function BodyTwo() {
     return (
         <div className='flex flex-col items-center justify-center mt-10 mr-[355px]'>
             <p className='font-bold text-[34px] text-diff-black' style={{ lineHeight: "42.5px", fontFamily: "var(--font-jost)"}}>
-                QuillAudits' Strategic Approach to CDP <br />
+                {"QuillAudits' Strategic Approach to CDP"} <br />
                 Security Audits
             </p>
             <p className='font-normal text-lg text-diff-black mt-10 mr-14' style={{ lineHeight: "27px", fontFamily: "var(--font-poppins)"}}>
@@ -24,7 +24,7 @@ function BodyTwo() {
             <p className='font-normal text-lg text-diff-black mt-10 mr-11' style={{ lineHeight: "27px", fontFamily: "var(--font-poppins)"}}>
                 Throughout the audit process, we unearthed a total of 33 issues, <br />
                 spanning from minor concerns to critical vulnerabilities. Among <br />
-                these, some of the critical issues identified were: Here's how we <br />
+                {"these, some of the critical issues identified were: Here's how we "} <br />
                 remediated them :
             </p>
             <ol className='list-decimal list-outside mt-4' style={{fontFamily: "var(--font-poppins)"}}>
@@ -89,7 +89,7 @@ function BodyTwo() {
             <p className='font-bold text-[34px] text-diff-black mt-8 mr-72 ml-5' style={{ lineHeight: "42.5px", fontFamily: "var(--font-jost)"}}>Remediation & Impact:</p>
             <p className='font-normal text-lg text-diff-black mt-10 mr-11' style={{ lineHeight: "27px", fontFamily: "var(--font-poppins)"}}>
                 All identified vulnerabilities were addressed by the CDP team, <br />
-                significantly enhancing the smart contract's security posture. Key <br />
+                {"significantly enhancing the smart contract's security posture. Key "} <br />
                 improvements include
             </p>
             <ul className='list-disc text-diff-black mt-6 font-normal text-lg' style={{ lineHeight: "27px", fontFamily: "var(--font-poppins)"}}>

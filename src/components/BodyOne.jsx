@@ -12,7 +12,7 @@ function BodyOne() {
                     users globally.
                 </p>
                 <p className='font-bold text-[34px] text-diff-black mt-8' style={{lineHeight: "42.5px", fontFamily: "var(--font-jost)"}}>
-                    CarpeDiem Pension's Flexible, <br/>
+                    {"CarpeDiem Pension's Flexible,"} <br/>
                     Blockchain-Enabled Future
                 </p>
                 <p className='font-normal text-lg mt-8' style={{lineHeight: "27px", fontFamily: "var(--font-poppins)"}}>
@@ -31,7 +31,7 @@ function BodyOne() {
                 </p>
                 <img className='mt-6 w-[758px] h-[373px] rounded-md' src="https://s3-alpha-sig.figma.com/img/4ac7/d013/b52d6815e1eea17ca18b12bc2668392c?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PpQKxlqnGB33W5Crdu2zKNoZyCUo-JbJhW5euVZfLzWGb8d1JHVINICmpObWHIyP-F0cqxNE6elQNUDq9FbGuV-0XXgeRTqQfzmQuOOtJ9Sh4CETQpeID1npsKi-z6Qvsn0r~gJYsqgsjeiYjLHHY7RBSW9Dh5qaDyjvckLDRCg9DADMZxFSQ7zPmmUkNI76ybcZSmYMjgmgeohxt-S40EjhailFHEb6tq--hz6ClJpr4-QyHeO2nUtXH18WazTPL~mXekPVUWdDsCvpOhCTTVGpv3jwK920sJnCwGgpyuFa5fIwfI8ra063x-oDhq0bcU5-NdB7qQNX4RnJEm~gUw__"></img>
                 <p className='font-bold text-[34px] mt-8' style={{lineHeight: "42.5px", fontFamily: "var(--font-jost)"}}>
-                    CarpeDiem Pension's Challenges: <br/> 
+                    {"CarpeDiem Pension's Challenges: "}<br/> 
                     Enhancing Security Against Reentrancy, <br/> 
                     Front-Running, and Infinite Minting
                 </p>
@@ -47,7 +47,7 @@ function BodyOne() {
                 </p>
                 <img className='w-[640px] h-[370px] rounded-md mt-8 -ml-2' src="https://s3-alpha-sig.figma.com/img/50d4/d7ce/b61b030e263e7ab85ddd3fa68d0d7691?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QZ7O05DdbBe3ripPyKD9KCUoqlJmcqnWb0Xh3bsizcp5NyMNLgQrOof2waNzj1veDooGPt5vBzNRCwM62ap88BctDOQXVsNPcxbx~M7ANNrAJIx5wCnJ4w0PH~YcfwGlaL9gNqz0KLYWeCsqTqb7EDVfYui1U9Cak3VIFx6Het97v0JryPUVPd~aZJHJUOg1tdlCxQvy1irnijeZvyBUe5U-UJ2-~JJqoIq52IkCKWm1fXFFt~OjyFVuwb~Bgap5B0ktncPIUtfA71aO6FFZoGfUN3dugJzOEvpvhGzaaQpqrrOpi-R1nOpnQnV0bpqoEJzvhSdnv0JX9H7a4qH0dQ__"></img>
                 <p className='font-bold text-[34px] mt-8 text-diff-black' style={{lineHeight: "42.5px", fontFamily: "var(--font-jost)"}}>
-                    CarpeDiem Pension's Journey Through <br/> 
+                    {"CarpeDiem Pension's Journey Through"}<br/> 
                     our Audit Process
                 </p>
                 <ol className='list-decimal mt-8 ml-8'>
@@ -58,7 +58,7 @@ function BodyOne() {
                                 whitepaper, technical specifications, and design documents.
                             </li>
                             <li className='ml-1 mt-2 font-normal text-lg'>
-                                Obtained a clear understanding of the CDP platform's <br/>
+                                {"Obtained a clear understanding of the CDP platform's"}<br/>
                                 functionality, economic model, and intended user interactions.
                             </li>
                             <li className='ml-1 mt-2 font-normal text-lg'>

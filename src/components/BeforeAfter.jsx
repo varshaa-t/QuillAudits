@@ -17,7 +17,7 @@ function BeforeAfter() {
                     <p className='mt-4 font-normal text-base leading-6' style={{fontFamily: "var(--font-poppins)"}}>
                         Vulnerabilities could allow users to mint CDP <br />
                         tokens or pension shares indefinitely, <br />
-                        disrupting the system's economic balance.
+                        {"disrupting the system's economic balance."}
                     </p>
                 </div>
                 <div>
